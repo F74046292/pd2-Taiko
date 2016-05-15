@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\scene.o
+./debug\btn.o
+./debug\drum.o
+./debug\rail.o
+./debug\timer.o
+./debug\qrc_picture.o
+./debug\qrc_playing.o
+./debug\moc_mainwindow.o
+./debug\moc_timer.o
+);

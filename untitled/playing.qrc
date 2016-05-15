@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>bg.png</file>
+        <file>in.jpg</file>
+        <file>out.jpg</file>
+        <file>bye.png</file>
+        <file>mtaikoflash_blue.png</file>
+        <file>mtaikoflash_red.png</file>
+        <file>sfieldbg_gogo.png</file>
+        <file>thousand4.png</file>
+        <file>Yugiohchen.png</file>
+        <file>malico.png</file>
+        <file>seahorse.png</file>
+    </qresource>
+</RCC>

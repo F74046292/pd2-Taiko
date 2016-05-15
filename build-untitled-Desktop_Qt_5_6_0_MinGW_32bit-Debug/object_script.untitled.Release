@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\scene.o
+./release\btn.o
+./release\drum.o
+./release\rail.o
+./release\timer.o
+./release\qrc_picture.o
+./release\qrc_playing.o
+./release\moc_mainwindow.o
+./release\moc_timer.o
+);
